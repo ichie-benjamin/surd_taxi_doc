@@ -1,0 +1,91 @@
+{
+	"app_name": "Ride Surd (user)",
+	"app_slug": "surd_taxi_user",
+	"android_app_identifier": "surd.taxiuser.app",
+	"ios_app_identifier": "surd.taxiuser.app",
+	"app_version": "1.0.0",
+	"background_color" : "#3299A2",
+
+	"firebase" : {
+		"api_key" : "",
+		"auth_domain" : "",
+		"project_id" :  "",
+		"storage_bucket" : "",
+		"database_url" :  "",
+		"messaging_sender_id" : "",
+		"app_id" :  ""
+	},
+
+	"googleApiKeys": {
+		"ios": "XXXXXXXXXXXXXXX",
+		"android": "XXXXXXXXXXXXXXX"
+	},
+
+	"google_map_api_key": "XXXXXXXXXXX",
+
+	"expo_project_id": "",
+	"eas_project_id": "XXXXXXXXXXXX",
+
+	"codecanyon_purchase_code": "XXXXXXXXXXXXXXX",
+
+	"base_url" : "https://ride.surdonline.com",
+
+	"version" : "1.0",
+
+	"android_store_link" : "",
+	"apple_store_link" : "",
+
+	"theme" : {
+		"light" : {
+			"darkGreen": "#229879",
+			"gray": "#626262",
+			"primary": "#0A8791",
+			"textPrimary": "#0A8791",
+			"btnColor": "#0A8791",
+			"textColor": "#798494",
+			"light_white": "#f7f7f8",
+
+			"inputBGColor": "#ffffff",
+
+			"borderColor": "#ccc",
+
+			"bg": "#f7f7f8",
+			"bgPrimary": "#f7f7f8",
+			"bgTransparentPrimary": "rgba(182,249,249,0.78)",
+			"secondary": "#ffffff",
+			"bgSecondary": "#0A8791",
+			"textSecondary": "#FBA83C",
+			"white": "#ffffff",
+
+			"tertiary": "#4b5563",
+			"accent": "#0891b2",
+			"tint": "#111827"
+		},
+
+		"dark" : {
+			"primary": "#0A8791",
+			"gray": "#626262",
+			"light_white": "#f7f7f8",
+			"darkGreen": "#229879",
+			"textPrimary": "#0A8791",
+			"btnColor": "#0A8791",
+			"textColor": "#798494",
+
+			"inputBGColor": "#ffffff",
+
+			"borderColor": "#ccc",
+
+			"bg": "#f7f7f8",
+			"bgPrimary": "#f7f7f8",
+			"bgTransparentPrimary": "rgba(182,249,249,0.78)",
+			"secondary": "#ffffff",
+			"bgSecondary": "#0A8791",
+			"textSecondary": "#FBA83C",
+			"white": "#ffffff",
+
+			"tertiary": "#4b5563",
+			"accent": "#0891b2",
+			"tint": "#111827"
+		}
+	}
+}
